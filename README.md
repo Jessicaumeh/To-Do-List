@@ -1,6 +1,6 @@
 # To Do List
 
-This is a simple to do list
+This is a simple React to do list
 
 ### and its pink
 
